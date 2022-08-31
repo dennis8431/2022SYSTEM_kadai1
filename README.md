@@ -34,6 +34,7 @@ CREATE TABLE `bbs_entries` (
 
 ### 3. 動作確認
 http://サーバーIPアドレス/bbsimagetest.php にアクセスして，動作を確認してください。
+
 構築は以上となります。
 
 ## 要件達成度
