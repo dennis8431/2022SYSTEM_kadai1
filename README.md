@@ -31,7 +31,7 @@ CREATE TABLE `bbs_entries` (
 ```
 
 構築は以上となります。
-http://サーバーIPアドレス/bbsimagetest.php にアクセスして，動作を確認してください。
+http://54.209.52.190/bbsimagetest.php にアクセスして，動作を確認してください。
 
 ## 要件達成度
 - [x] 投稿者が自由にテキストを投稿できること
